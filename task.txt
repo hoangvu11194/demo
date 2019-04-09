@@ -1,0 +1,13 @@
+T2: From WebApiBT -> json. Viet android hien thi ds Employee cua WebApiBT 
+T3: Tao tai khoan Azure. Up host WebApiBT len azure, chay online.
+ From CellphoneStore -> json. Viet android hien thi ds Item cua CellphoneStore
+T4: continue Viet android hien thi ds Item cua CellphoneStore (displayed file image)
+T5,T6: offday 
+
+
+https://webapibt20181030035530.azurewebsites.net/api/Employee
+
+
+tham khao:
+https://duythanhcse.wordpress.com/2014/12/19/bai-51-xu-ly-json-trong-android/
+

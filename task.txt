@@ -1,3 +1,5 @@
+nhanh 1 
+
 T2: From WebApiBT -> json. Viet android hien thi ds Employee cua WebApiBT 
 T3: Tao tai khoan Azure. Up host WebApiBT len azure, chay online.
  From CellphoneStore -> json. Viet android hien thi ds Item cua CellphoneStore
